@@ -1,0 +1,61 @@
+
+SALES ANALYTICS REPORT
+------------------------
+Total Sales:500000
+
+Monthly Sales Analysis:
+Date
+2025-01    70000
+2025-02    52000
+2025-03    30000
+2025-04    35000
+2025-05    28000
+2025-06    60000
+2025-07    32000
+2025-08    42000
+2025-09    65000
+2025-10    38000
+2025-11    48000
+Freq: M, Name: Sales, dtype: int64
+
+Quarterly Sales Analysis:
+Date
+2025Q1    152000
+2025Q2    123000
+2025Q3    139000
+2025Q4     86000
+Freq: Q-DEC, Name: Sales, dtype: int64
+
+Category Performance:
+Category
+Clothing       150000
+Electronics    222000
+Food           128000
+Name: Sales, dtype: int64
+
+Best Performing Category:
+Electronics
+
+Highest Category Sales:
+222000
+
+Visualization Approach:
+------------------------
+1. Line Chart:
+->Used to identify sales trends over time.
+->Suitable for time-series analysis.
+
+2. Bar Chart:
+->Used to compare sales performance among categories.
+->Helps identify top-performing categories.
+
+3. Pie Chart:
+->Used to visualize percentage contribution of each category to total sales.
+
+Formatting Techniques:
+-----------------------
+- Meaningful chart titles were added.
+- X-axis and Y-axis labels were provided.
+- Grid lines improve readability.
+- Data points were highlighted in line charts.
+- Percentage labels were added in pie charts.
